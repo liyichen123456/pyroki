@@ -1,0 +1,20 @@
+tyro
+jax>=0.4.0
+jaxlib
+jaxlie>=1.0.0
+jax_dataclasses>=1.0.0
+jaxtyping
+loguru
+robot_descriptions
+jaxls @ git+https://github.com/brentyi/jaxls.git
+yourdfpy
+trimesh
+viser
+pyliblzfse
+
+[dev]
+pyright>=1.1.308
+scikit-sparse
+ruff
+pytest
+m2r2
